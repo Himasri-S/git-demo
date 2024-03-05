@@ -1,1 +1,0 @@
-Test file to check how to remove file from repo.:
